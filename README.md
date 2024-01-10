@@ -12,6 +12,11 @@
 - To start it, you need to have Node.js installed, change directory to "emitter" and, run "npm i" and "npm start".
 - It will start a Socket.io server on ws://localhost:3050
 
+## Client
+- The React component is present in the client folder.
+- To start it, you need to have Node.js installed, change directory to "client" and, run "npm i" and "npm start".
+- It will start the UI on ws://localhost:3000
+
 ## Requirements
 - Use React with hooks, TypeScript, WebSocket. Any other technologies are optional.
 - You don't need to persist any data.
